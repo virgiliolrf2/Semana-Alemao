@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,700&family=Roboto:ital,wght@1,300&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+.title {
+    font-size: 300%;
+    background-color: rgba(252, 151, 0, 0.447);
+    margin: 0% 0 0 0;
+    padding: 4% 4% 4% 4%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(249, 50, 50);
+    background-size: 100%;
+}
+
+.castelo_img {
+    display: flex;
+    width: 250%;
+    height: 250%;
+    margin: 5% 5% 5% 5%;
+}
+
+.texto_castelo {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 175%;
+    margin: 5% 0% 0% 5%;
+    color: rgb(26, 26, 26);
+}
+.monumento {
+    height: 20vh;
+    display: flex;
+    flex: 1;
+}
